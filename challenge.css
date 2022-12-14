@@ -1,3 +1,9 @@
 body {
-background-color: #6D7C7B
+background-color: #6D7C7B;
+color: whitesmoke;
+font-family: fantasy;
+}
+fieldset>section {
+	padding: 2.5px;
+	background-color: #2F1E14;
 }
