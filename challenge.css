@@ -5,5 +5,9 @@ font-family: fantasy;
 }
 fieldset>section {
 	padding: 2.5px;
-	background-color: #2F1E14;
+	@keyframes mymove {
+  from {background-color: #2F1E14;}
+  to {background-color: #550710;}
+}
+	margin: 0 auto;
 }
