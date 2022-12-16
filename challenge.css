@@ -8,6 +8,8 @@ fieldset>section {
 	@keyframes mymove {
   from {background-color: #2F1E14;}
   to {background-color: #550710;}
+  to {background-color: #AD934A;}
+  to {background-color: #88AB5A;}
 }
 	margin: 0 auto;
 }
