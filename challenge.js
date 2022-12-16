@@ -6,5 +6,13 @@ classtoString("challenge")
     this.species = species;
     this.witchcraft = witchcraft;
   }
+   const species = ["Elf", "Demon", "Centaur"];
+
+const challenger_person = {
+  firstName: "",
+  lastName: "",
+  age: 20,
+  eyeColor: "emerald"
+};
 }
 }
